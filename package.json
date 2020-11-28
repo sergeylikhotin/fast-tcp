@@ -1,5 +1,5 @@
 {
-  "name": "fast-tcp",
+  "name": "eye-fast-tcp",
   "version": "3.3.2",
   "description": "fast-tcp is an extremely fast TCP client and server that allows to emit and listen to events",
   "author": "Alejandro Santiago Nieto & Sergey Likhotin",
